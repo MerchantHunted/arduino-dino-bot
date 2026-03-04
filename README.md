@@ -21,4 +21,4 @@ The code utilizes a simple threshold-based trigger system:
 2. Connect the Servo signal to digital pin 9.
 3. Calibrate the `threshold` value in the code based on your monitor's contrast settings.
 
-[Watch the video of the bot in action here](./Dinasaur Game.mp4)
+[Watch the video of the bot in action here](./dino_game.mp4)
